@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/sugoHQ/sugo/main/data/icons/hicolor/scalable/apps/io.github.mineraleyt.sugo.svg" alt="Sugo logo" width="112" height="112" />
+  <img src="https://raw.githubusercontent.com/sugoHQ/.github/main/profile/sugo-logo.svg" alt="Sugo logo" width="112" height="112" />
 
   # Sugo
 
