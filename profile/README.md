@@ -39,5 +39,3 @@
 ### Get involved
 
 Bug reports and ideas are welcome: open an [issue](https://github.com/sugoHQ/sugo/issues). To build Sugo and run its tests, see the [development guide](https://github.com/sugoHQ/sugo/blob/main/docs/DEVELOPMENT.md).
-
-<sub>Sugo is free software under the GPL-3.0-or-later. It is an independent community project, not affiliated with KDE e.V. or Apple.</sub>
